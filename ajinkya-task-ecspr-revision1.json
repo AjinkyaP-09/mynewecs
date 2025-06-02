@@ -86,6 +86,5 @@
     },
     "registeredAt": "2025-06-02T07:46:07.368Z",
     "registeredBy": "arn:aws:iam::022499018754:user/ajinkyapame",
-    "enableFaultInjection": false,
     "tags": []
 }

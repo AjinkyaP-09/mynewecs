@@ -2,7 +2,7 @@
     "taskDefinitionArn": "arn:aws:ecs:ap-south-1:022499018754:task-definition/ajinkya-task-ecspr:1",
     "containerDefinitions": [
         {
-            "name": "mynodecontainer",
+            "name": "myecs-container",
             "image": "022499018754.dkr.ecr.ap-south-1.amazonaws.com/myecs-ecr",
             "cpu": 0,
             "portMappings": [
